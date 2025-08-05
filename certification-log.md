@@ -4,7 +4,7 @@
 
 ### Oracle AI Associate ✅
 **Completion Date:** July 2025 
-**Key Learnings:**
+**Key Learnings:*
 - AI applications in enterprise software
 - Machine learning integration strategies
 - Automated decision-making processes

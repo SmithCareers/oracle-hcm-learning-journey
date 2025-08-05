@@ -6,13 +6,12 @@
 ### 🎯 **Professional Focus**
 Leveraging 6+ years of People Operations experience with Oracle HCM Cloud expertise to drive strategic HRIS initiatives in fast-growing organizations.
 
----
-
 ## 🏆 **Oracle Certifications & Achievements**
 
 ### ✅ **Completed Certifications**
-- **Oracle AI Associate** - Certified
-- **Oracle Cloud Applications** - Badge Earned
+**Oracle AI Associate** Certified <img width="552" height="276" alt="image" src="https://github.com/user-attachments/assets/500d5bcf-f1c8-4873-96db-9a7c45588eb3"/>
+
+**Oracle Cloud Applications** Badge Earned <img width="552" height="276" alt="image" src="https://github.com/user-attachments/assets/21bb6e9d-7586-47e7-9902-073b1adf77b4" />
 
 ### 🔄 **Currently Pursuing**  
 - **Oracle HCM Process Essentials** - In Progress

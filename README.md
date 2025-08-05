@@ -25,8 +25,6 @@ Leveraging 6+ years of People Operations experience with Oracle HCM Cloud expert
 
 ### 📞 Contact Information
 - **Email:** toya718@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Phone:** 347-524-4981
+- **LinkedIn:** https://www.linkedin.com/in/smithcareers/
 
----
 *"Transforming People Operations expertise into Oracle HCM mastery, one certification at a time."*

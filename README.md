@@ -17,7 +17,7 @@ Leveraging 6+ years of People Operations experience with Oracle HCM Cloud expert
 
 ### 🗂️ Portfolio Navigation
 | Section | Description | Status |
-|---------|-------------|--------|
+|---------|-------------|-------|
 | [Certifications](certifications/) | Detailed certification documentation | ✅ Current |
 | [Learning Journey](learning-journey/) | Daily progress and insights | 🔄 Updated Daily |
 | [Projects](projects/) | Hands-on Oracle HCM projects | 🔄 In Development |

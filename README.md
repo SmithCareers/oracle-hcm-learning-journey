@@ -17,10 +17,11 @@ Leveraging 6+ years of People Operations experience with Oracle HCM Cloud expert
 
 ### 🗂️ Portfolio Navigation
 | Section | Description | Status |
-| | [Certifications](certification-log.md) | Detailed certification documentation | ✅ Current |
+| [Certifications](certification-log.md) | Detailed certification documentation | ✅ Current |
 | [Daily Learning](daily-log.md) | Daily progress and insights | 🔄 Updated Daily |
 | [Projects](#projects) | Hands-on Oracle HCM projects | 🔄 In Development |
 | [Documentation](#technical-skills) | Technical notes and guides | 📝 Growing |
+
 ### 📞 Contact Information
 - **Email:** toya718@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/smithcareers/

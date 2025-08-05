@@ -1,20 +1,32 @@
-# Oracle HCM Cloud Learning Journey
-## Atoya Smith - HRIS Analyst Portfolio
+# Oracle HCM Cloud Certification Portfolio
+## Atoya Smith - HRIS Professional & Oracle Certified Specialist
 
-### 🏆 Oracle Certifications Achieved
+### 🎯 Professional Focus
+Leveraging 6+ years of People Operations experience with Oracle HCM Cloud expertise to drive strategic HRIS initiatives
+
+### 🏆 Oracle Certifications
 ✅ **Oracle AI Associate** - Certified  
 ✅ **Oracle Cloud Applications** - Badge Earned  
 🔄 **Oracle HCM Process Essentials** - In Progress  
 
-### 📚 Current Learning Path
-- Oracle MyLearn Platform - Race to Certification
-- Focus: Oracle HCM Process Essentials
-- Target Completion: August 2025
+### 📊 Portfolio Highlights
+- **Live Projects:** [3 active projects](projects/)
+- **Learning Hours:** 50+ documented hours
+- **Certifications:** 2 completed, 1 in progress
+- **Technical Skills:** Oracle Cloud, HRIS Administration, Process Design
 
-### 🛠️ Technical Skills Demonstrated
-- Oracle Cloud Platform Navigation
-- AI Integration in HR Systems
-- HCM Process Design and Implementation
+### 🗂️ Portfolio Navigation
+| Section | Description | Status |
+|---------|-------------|--------|
+| [Certifications](certifications/) | Detailed certification documentation | ✅ Current |
+| [Learning Journey](learning-journey/) | Daily progress and insights | 🔄 Updated Daily |
+| [Projects](projects/) | Hands-on Oracle HCM projects | 🔄 In Development |
+| [Documentation](documentation/) | Technical notes and guides | 📝 Growing |
 
-### 📈 Certification Journey
-[View my detailed progress](certification-log.md)
+### 📞 Contact Information
+- **Email:** toya718@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile]
+- **Phone:** 347-524-4981
+
+---
+*"Transforming People Operations expertise into Oracle HCM mastery, one certification at a time."*
